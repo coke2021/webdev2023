@@ -1,0 +1,617 @@
+/* Login.css
+.d-flex {
+  align-items: center;
+}
+
+.login-logo {
+  height: 450px; 
+  width: 700px;
+  margin-left: -200px; 
+}
+
+/* Login - 1 */
+
+.login-container {
+  position: relative;
+  width: 1536px;
+  height: 993px;
+  background: #FFFFFF;
+}
+
+/* Group 5 */
+
+.group-5 {
+  position: absolute;
+  width: 269px;
+  height: 94px;
+  left: 199px;
+  top: 164px;
+}
+
+/* Login */
+
+.login-title {
+  position: absolute;
+  width: 222px;
+  height: 72px;
+  left: 199px;
+  top: 164px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+}
+
+/* Find your next opportunity! */
+
+.opportunity-text {
+  position: absolute;
+  width: 269px;
+  height: 25px;
+  left: 199px;
+  top: 233px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #E69138;
+}
+
+/* Group 1 */
+
+.group-1 {
+  position: absolute;
+  width: 401px;
+  height: 58px;
+  left: 199px;
+  top: 283px;
+}
+
+/* Rectangle 7 */
+
+.rectangle-7 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 401px;
+  height: 58px;
+  left: 199px;
+  top: 283px;
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+/* google */
+
+.google-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 275px;
+  top: 299px;
+  background: url(google.png);
+}
+
+/* Login with Google */
+
+.login-google {
+  position: absolute;
+  width: 144px;
+  height: 25px;
+  left: 328px;
+  top: 299px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+}
+
+/* Group 2 */
+
+.group-2 {
+  position: absolute;
+  width: 401px;
+  height: 58px;
+  left: 199px;
+  top: 367px;
+}
+
+/* Rectangle 9 */
+
+.rectangle-9 {
+  position: absolute;
+  width: 401px;
+  height: 58px;
+  left: 199px;
+  top: 367px;
+  background: #000000;
+  border-radius: 5px;
+}
+
+/* apple-logo (2) */
+
+.apple-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 275px;
+  top: 383px;
+  background: url(apple-logo (2).png);
+}
+
+/* Login with Apple */
+
+.login-apple {
+  position: absolute;
+  width: 166px;
+  height: 25px;
+  left: 317px;
+  top: 383px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 
+  18px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* Group 10 */
+
+.group-10 {
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 833px;
+}
+
+/* Rectangle 9 */
+
+.rectangle-9 {
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 833px;
+background: #E69138;
+border-radius: 5px;
+}
+
+/* Log In */
+
+.log-in {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 317px;
+top: 849px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* Group 3 */
+
+.group-3 {
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 449px;
+}
+
+/* Rectangle 10 */
+
+.rectangle-10 {
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 449px;
+background: #0066C8;
+border-radius: 5px;
+}
+
+/* linkedin */
+
+.linkedin-icon {
+position: absolute;
+width: 25px;
+height: 25px;
+left: 275px;
+top: 466px;
+background: url(linkedin.png);
+}
+
+/* Login with LinkedIn */
+
+.login-linkedin {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 317px;
+top: 466px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+/* Group 6 */
+
+.group-6 {
+position: absolute;
+width: 337px;
+height: 25px;
+left: 232px;
+top: 541px;
+}
+
+/* or Login with Email */
+
+.login-email {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 317px;
+top: 541px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+
+/* Line 1 */
+
+.line-1 {
+position: absolute;
+width: 75px;
+height: 0px;
+left: 232px;
+top: 555px;
+border: 1px solid #B6B4B4;
+}
+
+/* Line 2 */
+
+.line-2 {
+position: absolute;
+width: 75px;
+height: 0px;
+left: 494px;
+top: 555px;
+border: 1px solid #B6B4B4;
+}
+
+/* Group 7 */
+
+.group-7 {
+position: absolute;
+width:
+401px;
+height: 58px;
+left: 199px;
+top: 602px;
+filter: drop-shadow(0px 0px 10px rgba(230, 145, 56, 0.5));
+}
+
+/* Rectangle 8 */
+
+.rectangle-8 {
+box-sizing: border-box;
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 602px;
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 5px;
+}
+
+/* Email */
+
+.email-text {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 226px;
+top: 618px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+color: #B6B4B4;
+}
+
+/* Group 11 */
+
+.group-11 {
+position: absolute;
+width: 305px;
+height: 35px;
+left: 199px;
+top: 118px;
+}
+
+/* Rectangle 8 */
+
+.rectangle-8 {
+box-sizing: border-box;
+position: absolute;
+width: 305px;
+height: 35px;
+left: 199px;
+top: 118px;
+background: #FFFFFF;
+border: 1.5px solid #E1E1E1;
+border-radius: 5px;
+}
+
+/* Don’t have an account yet? Sign Up */
+
+.sign-up-text {
+position: absolute;
+width: 277px;
+height: 15px;
+left: 213px;
+top: 128px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+color: #E69138;
+}
+
+/* Group 8 */
+
+.group-8 {
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 684px;
+}
+
+/* Rectangle 9 */
+
+.rectangle-9 {
+box-sizing: border-box;
+position: absolute;
+width: 401px;
+height: 58px;
+left: 199px;
+top: 684px;
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 5px;
+}
+
+/* Password */
+
+.password-text {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 226px;
+top: 700px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+color: #B6B4B4;
+}
+
+/* Group 9 */
+
+.group-9 {
+position: absolute;
+width: 401px;
+height: 25px;
+left: 199px;
+top: 758px;
+}
+
+/* Rectangle 11 */
+
+.rectangle-11 {
+box-sizing: border-box;
+position: absolute;
+width: 18px;
+height: 18px;
+left: 199px;
+top: 762px
+;
+background: #FFFFFF;
+border: 1px solid #000000;
+}
+
+/* Forgot password? */
+
+.forgot-password {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 434px;
+top: 758px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: right;
+color: #000000;
+}
+
+/* Remember Me */
+
+.remember-me {
+position: absolute;
+width: 166px;
+height: 25px;
+left: 223px;
+top: 758px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+color: #000000;
+}
+
+/* Group 23 */
+
+.group-23 {
+position: absolute;
+width: 693px;
+height: 770px;
+left: 768px;
+top: 73px;
+}
+
+/* apprenticepic 1 */
+
+.apprentice-pic {
+position: absolute;
+width: 608px;
+height: 608px;
+left: 768px;
+top: 220px;
+background: url(apprenticepic);
+}
+
+/* starsmotif */
+
+.stars-motif {
+position: absolute;
+width: 171px;
+height: 171px;
+left: 1290px;
+top: 317px;
+background: url(starsmotif);
+}
+
+/* tricolormotif */
+
+.tricolor-motif {
+position: absolute;
+width: 99px;
+height: 47px;
+left: 842px;
+top: 796px;
+background: url(tricolormotif);
+}
+
+/* dotsmotif */
+
+.dots-motif {
+position: absolute;
+width: 95px;
+height: 68px;
+left: 878px;
+top: 248px;
+background: url(dotsmotif);
+}
+
+/* Apprentice-thumbnail 1 */
+
+.apprentice-thumbnail {
+position: absolute;
+width: 411px;
+height: 216px;
+left: 913px;
+top: 73px;
+background: url(Apprentice-thumbnail);
+}
+
+/* The Smartest Students Tackling Your Toughest Tasks */
+
+.smartest-students {
+position: absolute;
+width: 333px;
+height: 72px;
+left: 1094px;
+top: 759px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: right;
+color: #000000;
+}
+
+
+.group-24 {
+position: absolute;
+width: 352px;
+height: 25px;
+left: 199px;
+top: 805px;
+}
+
+.incorrect-text {
+position: absolute;
+width: 333px;
+height: 25px;
+left: 218px;
+top: 805px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+color: #E06063;
+}
+
+
+.info-button {
+position: absolute;
+width: 13px;
+height: 13px;
+left: 199px;
+top: 821px;
+background: url(info-button.png);
+transform: matrix(1, 0, 0, -1, 0, 0);
+} 
